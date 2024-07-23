@@ -19,5 +19,5 @@ func BigBark() string {
 }
 
 func Version10() {
-	fmt.Println("Version 10")
+	fmt.Println("Version 1.0.1")
 }
